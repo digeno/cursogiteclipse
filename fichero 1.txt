@@ -1,3 +1,8 @@
 Este es el primer contenido de prueba
 Primera modificación del fichero1
 hotfix 1 del fichero 1.txt (mientras la revisión pte del quijote está stashed)
+
+
+
+pues resulta que la incidencia sigue y va para larg! así que haré los cambios en la rama 
+caracteristica_1 para estar más tranquilo...
