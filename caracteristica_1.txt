@@ -1,1 +1,4 @@
 cambios de la característica 1
+
+uy, esta característica es un tema distino al hotfix 1. 
+Lo trato en una rama aparte, en la rama_2 
