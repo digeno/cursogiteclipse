@@ -6,3 +6,5 @@ Lo trato en una rama aparte, en la rama_2
 cambio para fast forward...
 
 cambio olvidado
+
+cambio sólo commit
