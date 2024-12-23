@@ -1,3 +1,5 @@
+arreglo rápido en producción
+
 cambios de la característica 1
 
 uy, esta característica es un tema distino al hotfix 1. 
